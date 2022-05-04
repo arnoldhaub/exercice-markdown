@@ -15,5 +15,5 @@ Voici la liste des membres du groupe (normalement).
 - ![Jilani's picture](https://avatars.githubusercontent.com/u/104262443?v=4)
 [Jilani](https://github.com/JilaniN)
 
-[Cliquez ici pour aller au fichier "Markdown".](~/markdown.md)
+[Cliquez ici pour aller au fichier "Markdown".](markdown.md)
 

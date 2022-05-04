@@ -51,3 +51,4 @@ I am not sure about what is asking but I assume that a .GIF is an animated image
       </head>
     </html>
 `
+[Cliquez ici pour aller au fichier "README".](README.md)
