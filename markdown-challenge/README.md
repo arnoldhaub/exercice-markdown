@@ -16,11 +16,17 @@ My three *most surprising skills* are :
 ### Things I like the most.
 
 > The three things I like the most in the universe are :
-1. #### Being on my own.
+
+1. ### Being on my own.
+
 I really like my own company and, in a certain way, I often need to isolate myself from other if I want to be fully present and enjoy the time with others.
-2. #### Feeling free.
+
+2. ### Feeling free.
+
 It is so important to me to feel that I can do and be whatever I feel like. Otherwise I can feel that something is dying in myself.
-3. #### Create.
+
+3. ### Create.
+
 I have always created things : stories, projects, etc. It is something I need in my life, being able to create.
 
 ## Objectives
